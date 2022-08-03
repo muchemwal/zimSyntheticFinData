@@ -32,7 +32,7 @@ This dataset consists of credit card transactions but generated using CTGAN so t
 * name
 * country
 
-### MOBILE MONEY AGENT
+### Mobile Money Agent
 * id
 * latitude
 * longitude
