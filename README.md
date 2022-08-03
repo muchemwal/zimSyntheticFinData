@@ -1,2 +1,1 @@
 # zimSyntheticFinData
-# zimSyntheticFinData
