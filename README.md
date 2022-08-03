@@ -10,7 +10,8 @@ This dataset consists of credit card transactions but generated using CTGAN so t
 
 
 ## Data and Patterns
-### Client
+### Client (10 000 000 records / 730 mb compressed)
+https://www.mediafire.com/file/sai5wu8tcg3jlow/nodes.clients.csv.zip/file
 * id
 * first_name
 * last_name
@@ -26,13 +27,13 @@ This dataset consists of credit card transactions but generated using CTGAN so t
 * country
 * city
 
-### Company
+### Company (250 000 records / 309 kb)
 * id
 * type
 * name
 * country
 
-### Mobile Money Agent
+### Mobile Money Agent (5000 records / 309 kb)
 * id
 * latitude
 * longitude
