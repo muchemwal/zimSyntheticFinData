@@ -1,1 +1,1 @@
-# zimSyntheticFinData
+# Zimbabwe Synthetic Financial Data
