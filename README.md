@@ -53,4 +53,4 @@ There are 3 types of pattern generated:
 Money starts from node A, goes through K levels, with K_N nodes on each level, and comes to a node B without a small sum payed to all network participants for their "work". Parameners:
 * K (number of layers): randint(2, 6)
 
-[<img src="./images/ZimMobileMoneyAgents.png" width="30" />]
+<img src="./images/ZimMobileMoneyAgents.png" width="100" />
